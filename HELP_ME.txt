@@ -1,0 +1,76 @@
+﻿Name
+	modifySFUser
+	
+SYNOPSIS
+	The modifySFUser script logs onto Salesforce using the csf-boomi credentials and disables or enables the account associated with the name that is provided. 
+	
+PREREQUITIES
+	The contents of the “Data Loader” folder
+
+COMMANDS & SYNTAX
+	-n:
+		the –n parameter is used to specify the names of the users whom you want to modify.  it will need the full name of the user up to and including any characters that exist before any "(" in the name. You can enter as many names as you want. If you enter multiple names, they must be separated by  either a “,” or a “;”. The name or names must surrounded by double quotes
+			-n:"Bruce Wayne"
+			-n:"James Howlett, Jean Grey"
+			-n:"Kal-el, Superman; Clark Kent"
+
+	–org:
+		The –org parameter is used to specify the organizations that you want to modify the users in. You can enter as many organizations as you want. If you enter multiple organizations, they must be separated by either a “,” or a “;” and surrounded by double quotes. If no org is specified, it will access all the environment in the Sanbox.txt is located at \\dc2vtwstp02\sfdc-build_AntTriggers\Sandboxes\Sandboxes.txt
+			-org:dev55dcoop
+			-org:"uat04f"
+			-org:"test04f, dev55op"
+			-org:"dev08dp, dev09dp, dev10int; dev10trn"
+	
+	–enable/-disable
+		The –enable/-disable parameters are used to indicate whether you want to enable or disable the user(s). You can only use one, attempting to use both will cause the script to exit prematurely
+			-enable
+			-disable
+			
+	–email/-to:
+		The email/-to paramters are used to add additional recipients to the email that gets sent by default to the SFP SIs with the logs. You can enter as many email addresses you want. If you enter multiple, they must be separated by either a “,” or a “;” and surrounded by double quotes Using –email twice or –to twice or both at the same time will cause the script to exit prematurely
+			-email:batman@cloudtest.rbaenv.com
+			-email:"batman@cloudtest.rbaenv.com;robin@cloudtest.rbaenv.com"
+			-email:"batman@cloudtest.rbaenv.com, robin@cloudtest.rbaenv.com; thedarkknight@cloudtest.rbaenv.com"
+			-to:batman@cloudtest.rbaenv.com
+			- to:"batman@cloudtest.rbaenv.com;robin@cloudtest.rbaenv.com"
+			- to:"batman@cloudtest.rbaenv.com, robin@cloudtest.rbaenv.com; thedarkknight@cloudtest.rbaenv.com"
+
+	–f:
+		The –f parameter is used to specify a folder which contains txt file(s) which contain the commands for the script. The path of the folder must be relative. 
+			-f:"Trigger" OR -f (ASK BEN)
+		The .TXT file may have comma separated columns:
+		Name - Salesforce name
+		Enable/Disable - Optional and default is disable.
+		Email - Optional. Email address to send the results to.
+		The following are examples of TXT files:
+		Example #1:
+			Jason Bellis
+		Disables Jason Bellis and emails sfpsi@rbauction.com
+		Example #2:
+			" Jason Bellis"
+		Disables Jason Bellis and emails sfpsi@rbauction.com
+		Example #3:
+			" Jason Bellis "
+		Disables Jason Bellis and emails sfpsi@rbauction.com
+		Example #4:
+			"Jason Bellis "
+		Disables Jason Bellis and emails sfpsi@rbauction.com
+		Example #5:
+			"Jason Bellis", enable
+		Enables Jason Bellis and emails sfpsi@rbauction.com
+		Example #6:
+			"Jason Bellis", disable
+		Disables Jason Bellis and emails sfpsi@rbauction.com
+		Example #7:
+			"Jason Bellis", disable, batman@cloudtest.rbaenv.com
+		Disables Jason Bellis and emails batman@cloudtest.rbaenv.com and sfpsi@rbauction.com
+		Example #8:
+			"Jason Bellis", disable, "batman@cloudtest.rbaenv.com;robin@cloudtest.rbaenv.com"
+		Disables Jason Bellis and emails batman@cloudtest.rbaenv.com, robin@cloudtest.rbaenv.com and sfpsi@rbauction.com
+		Example #9:
+			"Jason Bellis", disable, "batman@cloudtest.rbaenv.com,robin@cloudtest.rbaenv.com"
+		Disables Jason Bellis and emails batman@cloudtest.rbaenv.com, robin@cloudtest.rbaenv.com and sfpsi@rbauction.com
+
+		REMARKS
+			For technical information about SalesForce, contact the S.I.s in charge of STP related operations.
+			For technical questions about the script or troubleshooting the script, you can contact me, Jason Saadatmand (the initial developer) via email at peyvand.manshadi@gmail.com, mmake the subject of the email begin with "modifySFUser - " for a quicker response

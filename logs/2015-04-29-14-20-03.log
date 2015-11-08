@@ -1,0 +1,6 @@
+2015-04-29 14:20:04 [getArgs] orgs extracted from C:\ModifySFUser\Sandboxes\Sandboxes.txt file for -f parameter
+2015-04-29 14:20:04 [parseCommand] Parsed Command: 
+2015-04-29 14:20:04 [parseCommand] 	Name: aaaaaaaaaaaaaaa
+2015-04-29 14:20:04 [parseCommand] 	IsActive flag: False
+2015-04-29 14:20:04 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'aaaaaaaaaaaaaaa%'
+2015-04-29 14:20:04 [fParameterInvoked] Modifying accounts for aaaaaaaaaaaaaaa

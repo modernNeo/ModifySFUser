@@ -1,0 +1,9 @@
+2015-04-29 14:27:21 [getArgs] Params: -disable
+2015-04-29 14:27:21 [getArgs] Params: -n: Jason Bellis
+2015-04-29 14:27:21 [getArgs] No Orgs Specified, orgs extracted from C:\ModifySFUser\Sandboxes\Sandboxes.txt file
+2015-04-29 14:27:21 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Bellis%'
+2015-04-29 14:27:21 [mainMethod] extraction username pointing to BAK01d
+2015-04-29 14:27:21 [callExportEXE] connecting to BAK01d......
+2015-04-29 14:27:25 [callExportEXE] Unable to connect to org BAK01d
+2015-04-29 14:27:25 [mainMethod] extraction username pointing to DEV06dp
+2015-04-29 14:27:25 [callExportEXE] connecting to DEV06dp......

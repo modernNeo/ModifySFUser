@@ -1,0 +1,10 @@
+2015-04-30 13:09:05 [getArgs] Params: -enable
+2015-04-30 13:09:05 [getArgs] Params: -n: Jason Saadatmand
+2015-04-30 13:09:05 [getArgs] Params: -org: dev55dcoop
+2015-04-30 13:09:05 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Saadatmand%'
+2015-04-30 13:09:05 [mainMethod] extraction username pointing to dev55dcoop
+2015-04-30 13:09:05 [callExportEXE] connecting to dev55dcoop......
+2015-04-30 13:09:13 [callExportEXE] connected to dev55dcoop and user list extracted
+2015-04-30 13:09:13 [mainMethod] username for upload pointing to dev55dcoop
+2015-04-30 13:09:13 [callUpdateEXE] users being updated in dev55dcoop.....
+2015-04-30 13:09:16 [callUpdateEXE] connection error, couldn't update users in dev55dcoop

@@ -1,0 +1,382 @@
+2015-04-30 15:01:13 [getArgs] orgs extracted from C:\ModifySFUser\Sandboxes\SandboxesW.txt file for -f parameter
+2015-04-30 15:01:13 [parseCommand] Parsed Command: 
+2015-04-30 15:01:13 [parseCommand] 	Name: Dave
+2015-04-30 15:01:13 [parseCommand] 	IsActive flag: False
+2015-04-30 15:01:13 [parseCommand] Parsed Command: 
+2015-04-30 15:01:13 [parseCommand] 	Name: That Man
+2015-04-30 15:01:13 [parseCommand] 	IsActive flag: False
+2015-04-30 15:01:13 [parseCommand] Parsed Command: 
+2015-04-30 15:01:13 [parseCommand] 	Name: Jason Saadatmand
+2015-04-30 15:01:13 [parseCommand] 	IsActive flag: False
+2015-04-30 15:01:13 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Dave%'
+2015-04-30 15:01:13 [fParameterInvoked] Modifying accounts for Dave
+2015-04-30 15:01:13 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:01:13 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:01:25 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:01:25 [modifyUsers] modifying specified users failed for DEV08dpD04 as Dave do(es) not exist in DEV08dpD04
+2015-04-30 15:01:25 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:01:25 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:01:40 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:01:40 [modifyUsers] modifying specified users failed for dev11dSZ as Dave do(es) not exist in dev11dSZ
+2015-04-30 15:01:40 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:01:40 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:01:50 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:01:50 [modifyUsers] modifying specified users failed for DEV14dCRM as Dave do(es) not exist in DEV14dCRM
+2015-04-30 15:01:50 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:01:50 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:02:02 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:02:02 [modifyUsers] modifying specified users failed for DEV15dCRM as Dave do(es) not exist in DEV15dCRM
+2015-04-30 15:02:02 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:02:02 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:02:11 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:02:11 [modifyUsers] modifying specified users failed for DEV15dpHFX as Dave do(es) not exist in DEV15dpHFX
+2015-04-30 15:02:11 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:02:11 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:02:19 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:02:19 [modifyUsers] modifying specified users failed for DEV19dpSFA as Dave do(es) not exist in DEV19dpSFA
+2015-04-30 15:02:20 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:02:20 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:02:30 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:02:30 [modifyUsers] modifying specified users failed for DEV21dpKB as Dave do(es) not exist in DEV21dpKB
+2015-04-30 15:02:30 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:02:30 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:02:42 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:02:42 [modifyUsers] modifying specified users failed for DEV27dpTAB as Dave do(es) not exist in DEV27dpTAB
+2015-04-30 15:02:42 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:02:42 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:02:56 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:02:56 [modifyUsers] modifying specified users failed for DEV38dpD04 as Dave do(es) not exist in DEV38dpD04
+2015-04-30 15:02:56 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:02:56 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:03:09 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:03:09 [modifyUsers] modifying specified users failed for DEV55dcoop as Dave do(es) not exist in DEV55dcoop
+2015-04-30 15:03:09 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:03:09 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:03:18 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:03:18 [modifyUsers] modifying specified users failed for dev70dSTPT as Dave do(es) not exist in dev70dSTPT
+2015-04-30 15:03:18 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:03:18 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:03:26 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:03:26 [modifyUsers] modifying specified users failed for DEV8cRJSAM as Dave do(es) not exist in DEV8cRJSAM
+2015-04-30 15:03:26 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:03:26 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:03:36 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:03:36 [modifyUsers] modifying specified users failed for MERG02dp as Dave do(es) not exist in MERG02dp
+2015-04-30 15:03:36 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:03:36 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:03:45 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:03:45 [modifyUsers] modifying specified users failed for TEST03F as Dave do(es) not exist in TEST03F
+2015-04-30 15:03:45 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:03:45 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:03:54 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:03:54 [modifyUsers] modifying specified users failed for TRN01dp as Dave do(es) not exist in TRN01dp
+2015-04-30 15:03:54 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:03:54 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:04:05 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:04:05 [modifyUsers] modifying specified users failed for DEV08dpD04 as Dave do(es) not exist in DEV08dpD04
+2015-04-30 15:04:05 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:04:05 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:04:14 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:04:14 [modifyUsers] modifying specified users failed for dev11dSZ as Dave do(es) not exist in dev11dSZ
+2015-04-30 15:04:14 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:04:14 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:04:26 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:04:26 [modifyUsers] modifying specified users failed for DEV14dCRM as Dave do(es) not exist in DEV14dCRM
+2015-04-30 15:04:26 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:04:26 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:04:35 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:04:35 [modifyUsers] modifying specified users failed for DEV15dCRM as Dave do(es) not exist in DEV15dCRM
+2015-04-30 15:04:35 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:04:35 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:04:44 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:04:44 [modifyUsers] modifying specified users failed for DEV15dpHFX as Dave do(es) not exist in DEV15dpHFX
+2015-04-30 15:04:44 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:04:44 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:04:52 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:04:52 [modifyUsers] modifying specified users failed for DEV19dpSFA as Dave do(es) not exist in DEV19dpSFA
+2015-04-30 15:04:52 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:04:52 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:05:00 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:05:00 [modifyUsers] modifying specified users failed for DEV21dpKB as Dave do(es) not exist in DEV21dpKB
+2015-04-30 15:05:00 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:05:00 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:05:12 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:05:12 [modifyUsers] modifying specified users failed for DEV27dpTAB as Dave do(es) not exist in DEV27dpTAB
+2015-04-30 15:05:12 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:05:12 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:05:21 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:05:21 [modifyUsers] modifying specified users failed for DEV38dpD04 as Dave do(es) not exist in DEV38dpD04
+2015-04-30 15:05:21 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:05:21 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:05:34 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:05:34 [modifyUsers] modifying specified users failed for DEV55dcoop as Dave do(es) not exist in DEV55dcoop
+2015-04-30 15:05:34 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:05:34 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:05:43 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:05:43 [modifyUsers] modifying specified users failed for dev70dSTPT as Dave do(es) not exist in dev70dSTPT
+2015-04-30 15:05:43 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:05:43 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:05:55 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:05:55 [modifyUsers] modifying specified users failed for DEV8cRJSAM as Dave do(es) not exist in DEV8cRJSAM
+2015-04-30 15:05:55 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:05:55 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:06:05 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:06:05 [modifyUsers] modifying specified users failed for MERG02dp as Dave do(es) not exist in MERG02dp
+2015-04-30 15:06:05 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:06:05 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:06:14 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:06:14 [modifyUsers] modifying specified users failed for TEST03F as Dave do(es) not exist in TEST03F
+2015-04-30 15:06:14 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:06:14 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:06:24 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:06:24 [modifyUsers] modifying specified users failed for TRN01dp as Dave do(es) not exist in TRN01dp
+2015-04-30 15:06:24 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'That Man%'
+2015-04-30 15:06:24 [fParameterInvoked] Modifying accounts for That Man
+2015-04-30 15:06:24 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:06:24 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:06:36 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:06:36 [modifyUsers] modifying specified users That Man failed for DEV08dpD04 as the exportCSV was empty
+2015-04-30 15:06:36 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:06:36 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:06:46 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:06:46 [modifyUsers] modifying specified users That Man failed for dev11dSZ as the exportCSV was empty
+2015-04-30 15:06:47 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:06:47 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:06:56 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:06:56 [modifyUsers] modifying specified users That Man failed for DEV14dCRM as the exportCSV was empty
+2015-04-30 15:06:56 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:06:56 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:07:06 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:07:06 [modifyUsers] modifying specified users That Man failed for DEV15dCRM as the exportCSV was empty
+2015-04-30 15:07:06 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:07:06 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:07:23 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:07:23 [modifyUsers] modifying specified users That Man failed for DEV15dpHFX as the exportCSV was empty
+2015-04-30 15:07:23 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:07:23 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:07:34 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:07:34 [modifyUsers] modifying specified users That Man failed for DEV19dpSFA as the exportCSV was empty
+2015-04-30 15:07:34 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:07:34 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:07:45 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:07:45 [modifyUsers] modifying specified users That Man failed for DEV21dpKB as the exportCSV was empty
+2015-04-30 15:07:45 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:07:46 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:07:57 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:07:57 [modifyUsers] modifying specified users That Man failed for DEV27dpTAB as the exportCSV was empty
+2015-04-30 15:07:57 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:07:57 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:08:13 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:08:13 [modifyUsers] modifying specified users That Man failed for DEV38dpD04 as the exportCSV was empty
+2015-04-30 15:08:13 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:08:13 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:08:33 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:08:33 [modifyUsers] modifying specified users That Man failed for DEV55dcoop as the exportCSV was empty
+2015-04-30 15:08:33 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:08:33 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:08:50 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:08:50 [modifyUsers] modifying specified users That Man failed for dev70dSTPT as the exportCSV was empty
+2015-04-30 15:08:50 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:08:50 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:09:04 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:09:04 [modifyUsers] modifying specified users That Man failed for DEV8cRJSAM as the exportCSV was empty
+2015-04-30 15:09:04 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:09:04 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:09:20 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:09:20 [modifyUsers] modifying specified users That Man failed for MERG02dp as the exportCSV was empty
+2015-04-30 15:09:20 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:09:20 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:09:41 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:09:41 [modifyUsers] modifying specified users That Man failed for TEST03F as the exportCSV was empty
+2015-04-30 15:09:41 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:09:41 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:09:55 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:09:55 [modifyUsers] modifying specified users That Man failed for TRN01dp as the exportCSV was empty
+2015-04-30 15:09:56 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:09:56 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:10:12 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:10:12 [modifyUsers] modifying specified users That Man failed for DEV08dpD04 as the exportCSV was empty
+2015-04-30 15:10:12 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:10:12 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:10:31 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:10:31 [modifyUsers] modifying specified users That Man failed for dev11dSZ as the exportCSV was empty
+2015-04-30 15:10:31 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:10:31 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:10:54 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:10:54 [modifyUsers] modifying specified users That Man failed for DEV14dCRM as the exportCSV was empty
+2015-04-30 15:10:54 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:10:54 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:11:18 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:11:18 [modifyUsers] modifying specified users That Man failed for DEV15dCRM as the exportCSV was empty
+2015-04-30 15:11:18 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:11:18 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:11:37 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:11:37 [modifyUsers] modifying specified users That Man failed for DEV15dpHFX as the exportCSV was empty
+2015-04-30 15:11:37 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:11:37 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:11:55 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:11:55 [modifyUsers] modifying specified users That Man failed for DEV19dpSFA as the exportCSV was empty
+2015-04-30 15:11:55 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:11:55 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:12:11 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:12:11 [modifyUsers] modifying specified users That Man failed for DEV21dpKB as the exportCSV was empty
+2015-04-30 15:12:11 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:12:11 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:12:29 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:12:29 [modifyUsers] modifying specified users That Man failed for DEV27dpTAB as the exportCSV was empty
+2015-04-30 15:12:29 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:12:29 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:12:49 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:12:49 [modifyUsers] modifying specified users That Man failed for DEV38dpD04 as the exportCSV was empty
+2015-04-30 15:12:49 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:12:49 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:13:11 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:13:11 [modifyUsers] modifying specified users That Man failed for DEV55dcoop as the exportCSV was empty
+2015-04-30 15:13:11 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:13:11 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:13:28 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:13:28 [modifyUsers] modifying specified users That Man failed for dev70dSTPT as the exportCSV was empty
+2015-04-30 15:13:28 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:13:28 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:13:46 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:13:46 [modifyUsers] modifying specified users That Man failed for DEV8cRJSAM as the exportCSV was empty
+2015-04-30 15:13:46 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:13:46 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:14:01 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:14:01 [modifyUsers] modifying specified users That Man failed for MERG02dp as the exportCSV was empty
+2015-04-30 15:14:01 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:14:01 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:14:16 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:14:16 [modifyUsers] modifying specified users That Man failed for TEST03F as the exportCSV was empty
+2015-04-30 15:14:16 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:14:16 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:14:34 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:14:34 [modifyUsers] modifying specified users That Man failed for TRN01dp as the exportCSV was empty
+2015-04-30 15:14:34 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Saadatmand%'
+2015-04-30 15:14:34 [fParameterInvoked] Modifying accounts for Jason Saadatmand
+2015-04-30 15:14:34 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:14:34 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:14:44 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:14:44 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV08dpD04 as the exportCSV was empty
+2015-04-30 15:14:44 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:14:44 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:15:00 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:15:00 [modifyUsers] modifying specified users Jason Saadatmand failed for dev11dSZ as the exportCSV was empty
+2015-04-30 15:15:00 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:15:00 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:15:18 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:15:18 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV14dCRM as the exportCSV was empty
+2015-04-30 15:15:18 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:15:18 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:15:34 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:15:34 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV15dCRM as the exportCSV was empty
+2015-04-30 15:15:34 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:15:34 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:15:49 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:15:50 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV15dpHFX as the exportCSV was empty
+2015-04-30 15:15:50 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:15:50 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:16:00 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:16:00 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV19dpSFA as the exportCSV was empty
+2015-04-30 15:16:00 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:16:00 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:16:15 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:16:15 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV21dpKB as the exportCSV was empty
+2015-04-30 15:16:15 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:16:15 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:16:33 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:16:33 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV27dpTAB as the exportCSV was empty
+2015-04-30 15:16:33 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:16:33 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:16:45 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:16:45 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV38dpD04 as the exportCSV was empty
+2015-04-30 15:16:45 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:16:45 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:17:00 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:17:00 [mainMethod] username for upload pointing to DEV55dcoop
+2015-04-30 15:17:00 [callUpdateEXE] users being updated in DEV55dcoop.....
+2015-04-30 15:17:17 [callUpdateEXE] update complete in DEV55dcoop
+2015-04-30 15:17:00 [modifyUsers] Disabled: sfdcadminjsaadatmand@rbauction.com.dev55dcoop
+2015-04-30 15:17:17 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:17:17 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:17:34 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:17:34 [modifyUsers] modifying specified users Jason Saadatmand failed for dev70dSTPT as the exportCSV was empty
+2015-04-30 15:17:34 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:17:34 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:17:49 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:17:49 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV8cRJSAM as the exportCSV was empty
+2015-04-30 15:17:49 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:17:49 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:18:04 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:18:04 [modifyUsers] modifying specified users Jason Saadatmand failed for MERG02dp as the exportCSV was empty
+2015-04-30 15:18:04 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:18:04 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:18:15 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:18:15 [modifyUsers] modifying specified users Jason Saadatmand failed for TEST03F as the exportCSV was empty
+2015-04-30 15:18:15 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:18:15 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:18:25 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:18:25 [mainMethod] username for upload pointing to TRN01dp
+2015-04-30 15:18:25 [callUpdateEXE] users being updated in TRN01dp.....
+2015-04-30 15:18:37 [callUpdateEXE] update complete in TRN01dp
+2015-04-30 15:18:25 [modifyUsers] Disabled: sfdcadminjsaadatmand@rbauction.com.trn01dp
+2015-04-30 15:18:37 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 15:18:37 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 15:18:51 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 15:18:51 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV08dpD04 as the exportCSV was empty
+2015-04-30 15:18:51 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 15:18:51 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 15:19:01 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 15:19:01 [modifyUsers] modifying specified users Jason Saadatmand failed for dev11dSZ as the exportCSV was empty
+2015-04-30 15:19:01 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 15:19:01 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 15:19:12 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 15:19:12 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV14dCRM as the exportCSV was empty
+2015-04-30 15:19:12 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 15:19:12 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 15:19:25 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 15:19:25 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV15dCRM as the exportCSV was empty
+2015-04-30 15:19:25 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 15:19:25 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 15:19:34 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 15:19:34 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV15dpHFX as the exportCSV was empty
+2015-04-30 15:19:34 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 15:19:35 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 15:19:50 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 15:19:50 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV19dpSFA as the exportCSV was empty
+2015-04-30 15:19:50 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 15:19:50 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 15:20:01 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 15:20:01 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV21dpKB as the exportCSV was empty
+2015-04-30 15:20:01 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 15:20:01 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 15:20:11 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 15:20:11 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV27dpTAB as the exportCSV was empty
+2015-04-30 15:20:11 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 15:20:11 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 15:20:23 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 15:20:23 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV38dpD04 as the exportCSV was empty
+2015-04-30 15:20:23 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 15:20:23 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 15:20:35 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 15:20:35 [modifyUsers] Already disabled: sfdcadminjsaadatmand@rbauction.com.dev55dcoop
+2015-04-30 15:20:35 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 15:20:35 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 15:20:50 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 15:20:50 [modifyUsers] modifying specified users Jason Saadatmand failed for dev70dSTPT as the exportCSV was empty
+2015-04-30 15:20:50 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 15:20:50 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 15:21:03 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 15:21:03 [modifyUsers] modifying specified users Jason Saadatmand failed for DEV8cRJSAM as the exportCSV was empty
+2015-04-30 15:21:03 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 15:21:03 [callExportEXE] connecting to MERG02dp......
+2015-04-30 15:21:11 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 15:21:11 [modifyUsers] modifying specified users Jason Saadatmand failed for MERG02dp as the exportCSV was empty
+2015-04-30 15:21:11 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 15:21:11 [callExportEXE] connecting to TEST03F......
+2015-04-30 15:21:22 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 15:21:22 [modifyUsers] modifying specified users Jason Saadatmand failed for TEST03F as the exportCSV was empty
+2015-04-30 15:21:22 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 15:21:22 [callExportEXE] connecting to TRN01dp......
+2015-04-30 15:21:33 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 15:21:33 [modifyUsers] Already disabled: sfdcadminjsaadatmand@rbauction.com.trn01dp

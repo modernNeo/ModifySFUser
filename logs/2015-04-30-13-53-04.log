@@ -1,0 +1,8 @@
+2015-04-30 13:53:04 [getArgs] Params: -disable
+2015-04-30 13:53:04 [getArgs] Params: -n: Jacob eachus
+2015-04-30 13:53:04 [getArgs] Params: -org: dev55dcoop
+2015-04-30 13:53:04 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jacob eachus%'
+2015-04-30 13:53:05 [mainMethod] extraction username pointing to dev55dcoop
+2015-04-30 13:53:05 [callExportEXE] connecting to dev55dcoop......
+2015-04-30 13:55:30 [callExportEXE] connected to dev55dcoop and user list extracted
+2015-04-30 13:55:302015-04-30 13:55:30 [modifyUsers] modifying specified users failed for dev55dcoop as C:\ModifySFUser\Data Loader\cliq_process\export\write\export.csv was empty

@@ -1,0 +1,10 @@
+2015-04-30 08:58:20 [getArgs] Params: -disable
+2015-04-30 08:58:20 [getArgs] Params: -n: Jason Saadatmand
+2015-04-30 08:58:20 [getArgs] No Orgs Specified, orgs extracted from C:\ModifySFUser\Sandboxes\Sandboxes.txt file
+2015-04-30 08:58:20 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Saadatmand%'
+2015-04-30 08:58:20 [mainMethod] extraction username pointing to DEV06dp
+2015-04-30 08:58:20 [callExportEXE] connecting to DEV06dp......
+2015-04-30 08:58:29 [callExportEXE] connected to DEV06dp and user list extracted
+2015-04-30 08:58:29 [modifyUsers] CSV empty as none of the users in DEV06dp were a match for the specified name 
+2015-04-30 08:58:29 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 08:58:29 [callExportEXE] connecting to DEV08dpD04......

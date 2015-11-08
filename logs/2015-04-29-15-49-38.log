@@ -1,0 +1,61 @@
+2015-04-29 15:49:39 [getArgs] Params: -email:jsaadatmand@rbauction.com
+2015-04-29 15:49:39 [getArgs] Params: -disable
+2015-04-29 15:49:39 [getArgs] Params: -n: Yadan Wang
+2015-04-29 15:49:39 [getArgs] Params: -org: dev08dpd04, dev37dpd04, merg08dp, merg09dp, test03f, trn01dp, merg13dp, merg14dp
+2015-04-29 15:49:39 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Yadan Wang%'
+2015-04-29 15:49:39 [mainMethod] extraction username pointing to dev08dpd04
+2015-04-29 15:49:39 [callExportEXE] connecting to dev08dpd04......
+2015-04-29 15:49:49 [callExportEXE] connected to dev08dpd04 and user list extracted
+2015-04-29 15:49:50 [mainMethod] username for upload pointing to dev08dpd04
+2015-04-29 15:49:50 [callUpdateEXE] users being updated in dev08dpd04.....
+2015-04-29 15:49:59 [callUpdateEXE] update complete in dev08dpd04
+2015-04-29 15:49:50 [modifyUsers] Disabled: ywang@rbauction.com.dev08dpd04
+2015-04-29 15:49:59 [mainMethod] extraction username pointing to dev37dpd04
+2015-04-29 15:49:59 [callExportEXE] connecting to dev37dpd04......
+2015-04-29 15:50:07 [callExportEXE] connected to dev37dpd04 and user list extracted
+2015-04-29 15:50:07 [mainMethod] username for upload pointing to dev37dpd04
+2015-04-29 15:50:07 [callUpdateEXE] users being updated in dev37dpd04.....
+2015-04-29 15:50:15 [callUpdateEXE] update complete in dev37dpd04
+2015-04-29 15:50:07 [modifyUsers] Disabled: ywang@rbauction.com.dev37dpd04
+2015-04-29 15:50:15 [mainMethod] extraction username pointing to merg08dp
+2015-04-29 15:50:15 [callExportEXE] connecting to merg08dp......
+2015-04-29 15:50:22 [callExportEXE] connected to merg08dp and user list extracted
+2015-04-29 15:50:22 [mainMethod] username for upload pointing to merg08dp
+2015-04-29 15:50:22 [callUpdateEXE] users being updated in merg08dp.....
+2015-04-29 15:50:31 [callUpdateEXE] update complete in merg08dp
+2015-04-29 15:50:22 [modifyUsers] Disabled: ywang@rbauction.com.merg08dp
+2015-04-29 15:50:31 [mainMethod] extraction username pointing to merg09dp
+2015-04-29 15:50:31 [callExportEXE] connecting to merg09dp......
+2015-04-29 15:50:38 [callExportEXE] connected to merg09dp and user list extracted
+2015-04-29 15:50:38 [mainMethod] username for upload pointing to merg09dp
+2015-04-29 15:50:38 [callUpdateEXE] users being updated in merg09dp.....
+2015-04-29 15:50:46 [callUpdateEXE] update complete in merg09dp
+2015-04-29 15:50:38 [modifyUsers] Disabled: ywang@rbauction.com.merg09dp
+2015-04-29 15:50:46 [mainMethod] extraction username pointing to test03f
+2015-04-29 15:50:46 [callExportEXE] connecting to test03f......
+2015-04-29 15:50:53 [callExportEXE] connected to test03f and user list extracted
+2015-04-29 15:50:53 [mainMethod] username for upload pointing to test03f
+2015-04-29 15:50:53 [callUpdateEXE] users being updated in test03f.....
+2015-04-29 15:51:01 [callUpdateEXE] update complete in test03f
+2015-04-29 15:50:53 [modifyUsers] Disabled: ywang@rbauction.com.test03f
+2015-04-29 15:51:01 [mainMethod] extraction username pointing to trn01dp
+2015-04-29 15:51:02 [callExportEXE] connecting to trn01dp......
+2015-04-29 15:51:10 [callExportEXE] connected to trn01dp and user list extracted
+2015-04-29 15:52:05 [mainMethod] username for upload pointing to trn01dp
+2015-04-29 15:52:05 [callUpdateEXE] users being updated in trn01dp.....
+2015-04-29 15:52:15 [callUpdateEXE] update complete in trn01dp
+2015-04-29 15:52:05 [modifyUsers] Disabled: ywang@rbauction.com.train
+2015-04-29 15:52:15 [mainMethod] extraction username pointing to merg13dp
+2015-04-29 15:52:15 [callExportEXE] connecting to merg13dp......
+2015-04-29 15:52:23 [callExportEXE] connected to merg13dp and user list extracted
+2015-04-29 15:52:23 [mainMethod] username for upload pointing to merg13dp
+2015-04-29 15:52:23 [callUpdateEXE] users being updated in merg13dp.....
+2015-04-29 15:52:31 [callUpdateEXE] update complete in merg13dp
+2015-04-29 15:52:23 [modifyUsers] Disabled: ywang@rbauction.com.merg13dp
+2015-04-29 15:52:31 [mainMethod] extraction username pointing to merg14dp
+2015-04-29 15:52:31 [callExportEXE] connecting to merg14dp......
+2015-04-29 15:52:38 [callExportEXE] connected to merg14dp and user list extracted
+2015-04-29 15:52:38 [mainMethod] username for upload pointing to merg14dp
+2015-04-29 15:52:38 [callUpdateEXE] users being updated in merg14dp.....
+2015-04-29 15:52:46 [callUpdateEXE] update complete in merg14dp
+2015-04-29 15:52:38 [modifyUsers] Disabled: ywang@rbauction.com.merg14dp

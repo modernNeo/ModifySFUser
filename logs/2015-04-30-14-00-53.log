@@ -1,0 +1,8 @@
+2015-04-30 14:00:53 [getArgs] Params: -disable
+2015-04-30 14:00:53 [getArgs] Params: -n: Dave
+2015-04-30 14:00:53 [getArgs] Params: -org: dev55dcoop
+2015-04-30 14:00:53 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Dave%'
+2015-04-30 14:00:53 [mainMethod] extraction username pointing to dev55dcoop
+2015-04-30 14:00:53 [callExportEXE] connecting to dev55dcoop......
+2015-04-30 14:01:00 [callExportEXE] connected to dev55dcoop and user list extracted
+2015-04-30 14:01:002015-04-30 14:01:00 [modifyUsers] modifying specified users failed for dev55dcoop as Dave do(es) not exist in dev55dcoop

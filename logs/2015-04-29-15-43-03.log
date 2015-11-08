@@ -1,0 +1,176 @@
+2015-04-29 15:43:04 [getArgs] orgs extracted from C:\ModifySFUser\Sandboxes\Sandboxes.txt file for -f parameter
+2015-04-29 15:43:04 [parseCommand] Parsed Command: 
+2015-04-29 15:43:04 [parseCommand] 	Name: Jason Bellis
+2015-04-29 15:43:04 [parseCommand] 	IsActive flag: False
+2015-04-29 15:43:04 [modifySFUser] 	Recipient emails: brelova@rbauction.com
+2015-04-29 15:43:04 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Bellis%'
+2015-04-29 15:43:04 [fParameterInvoked] Modifying accounts for Jason Bellis
+2015-04-29 15:43:04 [mainMethod] extraction username pointing to BAK01d
+2015-04-29 15:43:04 [callExportEXE] connecting to BAK01d......
+2015-04-29 15:43:08 [callExportEXE] Unable to connect to org BAK01d
+2015-04-29 15:43:08 [mainMethod] extraction username pointing to DEV06dp
+2015-04-29 15:43:08 [callExportEXE] connecting to DEV06dp......
+2015-04-29 15:43:11 [callExportEXE] Unable to connect to org DEV06dp
+2015-04-29 15:43:11 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-29 15:43:11 [callExportEXE] connecting to DEV08dpD04......
+2015-04-29 15:43:22 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-29 15:43:22 [mainMethod] username for upload pointing to DEV08dpD04
+2015-04-29 15:43:22 [callUpdateEXE] users being updated in DEV08dpD04.....
+2015-04-29 15:43:32 [callUpdateEXE] update complete in DEV08dpD04
+2015-04-29 15:43:22 [modifyUsers] Disabled: jbellis@rbauction.com.dev08dpd04
+2015-04-29 15:43:32 [mainMethod] extraction username pointing to DEV09dpINT
+2015-04-29 15:43:32 [callExportEXE] connecting to DEV09dpINT......
+2015-04-29 15:43:35 [callExportEXE] Unable to connect to org DEV09dpINT
+2015-04-29 15:43:36 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-29 15:43:36 [callExportEXE] connecting to dev11dSZ......
+2015-04-29 15:43:45 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-29 15:43:45 [mainMethod] username for upload pointing to dev11dSZ
+2015-04-29 15:43:45 [callUpdateEXE] users being updated in dev11dSZ.....
+2015-04-29 15:43:55 [callUpdateEXE] update complete in dev11dSZ
+2015-04-29 15:43:45 [modifyUsers] Disabled: jbellis@rbauction.com.dev11dsz
+2015-04-29 15:43:55 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-29 15:43:55 [callExportEXE] connecting to DEV14dCRM......
+2015-04-29 15:44:04 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-29 15:44:04 [mainMethod] username for upload pointing to DEV14dCRM
+2015-04-29 15:44:04 [callUpdateEXE] users being updated in DEV14dCRM.....
+2015-04-29 15:44:17 [callUpdateEXE] update complete in DEV14dCRM
+2015-04-29 15:44:04 [modifyUsers] Disabled: jbellis@rbauction.com.dev14dcrm
+2015-04-29 15:44:17 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-29 15:44:17 [callExportEXE] connecting to DEV15dCRM......
+2015-04-29 15:44:28 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-29 15:44:28 [mainMethod] username for upload pointing to DEV15dCRM
+2015-04-29 15:44:28 [callUpdateEXE] users being updated in DEV15dCRM.....
+2015-04-29 15:44:40 [callUpdateEXE] update complete in DEV15dCRM
+2015-04-29 15:44:28 [modifyUsers] Disabled: jbellis@rbauction.com.dev15dcrm
+2015-04-29 15:44:40 [mainMethod] extraction username pointing to DEV17dST
+2015-04-29 15:44:40 [callExportEXE] connecting to DEV17dST......
+2015-04-29 15:44:43 [callExportEXE] Unable to connect to org DEV17dST
+2015-04-29 15:44:43 [mainMethod] extraction username pointing to DEV18dST
+2015-04-29 15:44:43 [callExportEXE] connecting to DEV18dST......
+2015-04-29 15:44:48 [callExportEXE] Unable to connect to org DEV18dST
+2015-04-29 15:44:48 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-29 15:44:48 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-29 15:44:57 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-29 15:44:57 [mainMethod] username for upload pointing to DEV19dpSFA
+2015-04-29 15:44:57 [callUpdateEXE] users being updated in DEV19dpSFA.....
+2015-04-29 15:45:09 [callUpdateEXE] update complete in DEV19dpSFA
+2015-04-29 15:44:57 [modifyUsers] Disabled: jbellis@rbauction.com.dev19dpsfa
+2015-04-29 15:45:09 [mainMethod] extraction username pointing to DEV20dpENH
+2015-04-29 15:45:09 [callExportEXE] connecting to DEV20dpENH......
+2015-04-29 15:45:13 [callExportEXE] Unable to connect to org DEV20dpENH
+2015-04-29 15:45:13 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-29 15:45:13 [callExportEXE] connecting to DEV21dpKB......
+2015-04-29 15:45:21 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-29 15:45:21 [mainMethod] username for upload pointing to DEV21dpKB
+2015-04-29 15:45:21 [callUpdateEXE] users being updated in DEV21dpKB.....
+2015-04-29 15:45:34 [callUpdateEXE] update complete in DEV21dpKB
+2015-04-29 15:45:21 [modifyUsers] Disabled: jbellis@rbauction.com.dev21dpkb
+2015-04-29 15:45:34 [mainMethod] extraction username pointing to DEV25dAS
+2015-04-29 15:45:34 [callExportEXE] connecting to DEV25dAS......
+2015-04-29 15:45:38 [callExportEXE] Unable to connect to org DEV25dAS
+2015-04-29 15:45:38 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-29 15:45:38 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-29 15:45:47 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-29 15:45:47 [mainMethod] username for upload pointing to DEV27dpTAB
+2015-04-29 15:45:47 [callUpdateEXE] users being updated in DEV27dpTAB.....
+2015-04-29 15:45:57 [callUpdateEXE] update complete in DEV27dpTAB
+2015-04-29 15:45:47 [modifyUsers] Disabled: jbellis@rbauction.com.dev27dptab
+2015-04-29 15:45:57 [mainMethod] extraction username pointing to DEV37dpD04
+2015-04-29 15:45:57 [callExportEXE] connecting to DEV37dpD04......
+2015-04-29 15:46:05 [callExportEXE] connected to DEV37dpD04 and user list extracted
+2015-04-29 15:46:05 [mainMethod] username for upload pointing to DEV37dpD04
+2015-04-29 15:46:05 [callUpdateEXE] users being updated in DEV37dpD04.....
+2015-04-29 15:46:13 [callUpdateEXE] update complete in DEV37dpD04
+2015-04-29 15:46:05 [modifyUsers] Disabled: jbellis@rbauction.com.dev37dpd04
+2015-04-29 15:46:13 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-29 15:46:13 [callExportEXE] connecting to DEV38dpD04......
+2015-04-29 15:46:22 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-29 15:46:22 [modifyUsers] Already disabled: jbellis@rbauction.com.dev38dpd04
+2015-04-29 15:46:22 [mainMethod] extraction username pointing to DEV4dAR
+2015-04-29 15:46:22 [callExportEXE] connecting to DEV4dAR......
+2015-04-29 15:46:25 [callExportEXE] Unable to connect to org DEV4dAR
+2015-04-29 15:46:25 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-29 15:46:25 [callExportEXE] connecting to DEV55dcoop......
+2015-04-29 15:46:34 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-29 15:46:34 [modifyUsers] Already disabled: jbellis@rbauction.com.dev55dcoop
+2015-04-29 15:46:34 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-29 15:46:34 [callExportEXE] connecting to dev70dSTPT......
+2015-04-29 15:46:43 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-29 15:46:43 [modifyUsers] Already disabled: jbellis@rbauction.com.dev70dstpt
+2015-04-29 15:46:43 [mainMethod] extraction username pointing to DEV71dDF
+2015-04-29 15:46:43 [callExportEXE] connecting to DEV71dDF......
+2015-04-29 15:46:47 [callExportEXE] Unable to connect to org DEV71dDF
+2015-04-29 15:46:47 [mainMethod] extraction username pointing to dev72ddf
+2015-04-29 15:46:47 [callExportEXE] connecting to dev72ddf......
+2015-04-29 15:46:50 [callExportEXE] Unable to connect to org dev72ddf
+2015-04-29 15:46:50 [mainMethod] extraction username pointing to DEV7cSAM
+2015-04-29 15:46:50 [callExportEXE] connecting to DEV7cSAM......
+2015-04-29 15:46:55 [callExportEXE] Unable to connect to org DEV7cSAM
+2015-04-29 15:46:55 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-29 15:46:55 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-29 15:46:58 [callExportEXE] Unable to connect to org DEV8cRJSAM
+2015-04-29 15:46:58 [mainMethod] extraction username pointing to MERG02dp
+2015-04-29 15:46:58 [callExportEXE] connecting to MERG02dp......
+2015-04-29 15:47:11 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-29 15:47:11 [mainMethod] username for upload pointing to MERG02dp
+2015-04-29 15:47:11 [callUpdateEXE] users being updated in MERG02dp.....
+2015-04-29 15:47:23 [callUpdateEXE] update complete in MERG02dp
+2015-04-29 15:47:11 [modifyUsers] Disabled: jbellis@rbauction.com.merg02dp
+2015-04-29 15:47:23 [mainMethod] extraction username pointing to MERG08dp
+2015-04-29 15:47:23 [callExportEXE] connecting to MERG08dp......
+2015-04-29 15:47:32 [callExportEXE] connected to MERG08dp and user list extracted
+2015-04-29 15:47:32 [mainMethod] username for upload pointing to MERG08dp
+2015-04-29 15:47:32 [callUpdateEXE] users being updated in MERG08dp.....
+2015-04-29 15:47:40 [callUpdateEXE] update complete in MERG08dp
+2015-04-29 15:47:32 [modifyUsers] Disabled: jbellis@rbauction.com.merg08dp
+2015-04-29 15:47:40 [mainMethod] extraction username pointing to MERG09dp
+2015-04-29 15:47:40 [callExportEXE] connecting to MERG09dp......
+2015-04-29 15:47:48 [callExportEXE] connected to MERG09dp and user list extracted
+2015-04-29 15:47:48 [mainMethod] username for upload pointing to MERG09dp
+2015-04-29 15:47:48 [callUpdateEXE] users being updated in MERG09dp.....
+2015-04-29 15:47:56 [callUpdateEXE] update complete in MERG09dp
+2015-04-29 15:47:48 [modifyUsers] Disabled: jbellis@rbauction.com.merg09dp
+2015-04-29 15:47:56 [mainMethod] extraction username pointing to TEST03f
+2015-04-29 15:47:56 [callExportEXE] connecting to TEST03f......
+2015-04-29 15:48:04 [callExportEXE] connected to TEST03f and user list extracted
+2015-04-29 15:48:04 [mainMethod] username for upload pointing to TEST03f
+2015-04-29 15:48:04 [callUpdateEXE] users being updated in TEST03f.....
+2015-04-29 15:48:13 [callUpdateEXE] update complete in TEST03f
+2015-04-29 15:48:04 [modifyUsers] Disabled: jbellis@rbauction.com.test03f
+2015-04-29 15:48:13 [mainMethod] extraction username pointing to TEST04F
+2015-04-29 15:48:13 [callExportEXE] connecting to TEST04F......
+2015-04-29 15:48:16 [callExportEXE] Unable to connect to org TEST04F
+2015-04-29 15:48:16 [mainMethod] extraction username pointing to TEST05F
+2015-04-29 15:48:16 [callExportEXE] connecting to TEST05F......
+2015-04-29 15:48:25 [callExportEXE] connected to TEST05F and user list extracted
+2015-04-29 15:48:25 [mainMethod] username for upload pointing to TEST05F
+2015-04-29 15:48:25 [callUpdateEXE] users being updated in TEST05F.....
+2015-04-29 15:48:36 [callUpdateEXE] update complete in TEST05F
+2015-04-29 15:48:25 [modifyUsers] Disabled: jbellis@rbauction.com.test05f
+2015-04-29 15:48:36 [mainMethod] extraction username pointing to TRN01dp
+2015-04-29 15:48:36 [callExportEXE] connecting to TRN01dp......
+2015-04-29 15:48:45 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-29 15:48:45 [mainMethod] username for upload pointing to TRN01dp
+2015-04-29 15:48:45 [callUpdateEXE] users being updated in TRN01dp.....
+2015-04-29 15:48:55 [callUpdateEXE] update complete in TRN01dp
+2015-04-29 15:48:45 [modifyUsers] Disabled: jbellis@rbauction.com.train
+2015-04-29 15:48:55 [mainMethod] extraction username pointing to UAT04F
+2015-04-29 15:48:55 [callExportEXE] connecting to UAT04F......
+2015-04-29 15:48:59 [callExportEXE] Unable to connect to org UAT04F
+2015-04-29 15:48:59 [mainMethod] extraction username pointing to merg13dp
+2015-04-29 15:48:59 [callExportEXE] connecting to merg13dp......
+2015-04-29 15:49:06 [callExportEXE] connected to merg13dp and user list extracted
+2015-04-29 15:49:06 [mainMethod] username for upload pointing to merg13dp
+2015-04-29 15:49:06 [callUpdateEXE] users being updated in merg13dp.....
+2015-04-29 15:49:15 [callUpdateEXE] update complete in merg13dp
+2015-04-29 15:49:06 [modifyUsers] Disabled: jbellis@rbauction.com.merg13dp
+2015-04-29 15:49:15 [mainMethod] extraction username pointing to 
+2015-04-29 15:49:15 [callExportEXE] connecting to ......
+2015-04-29 15:49:20 [callExportEXE] Unable to connect to org 
+2015-04-29 15:49:20 [mainMethod] extraction username pointing to MERG14dp
+2015-04-29 15:49:20 [callExportEXE] connecting to MERG14dp......
+2015-04-29 15:49:27 [callExportEXE] connected to MERG14dp and user list extracted
+2015-04-29 15:49:27 [mainMethod] username for upload pointing to MERG14dp
+2015-04-29 15:49:27 [callUpdateEXE] users being updated in MERG14dp.....
+2015-04-29 15:49:36 [callUpdateEXE] update complete in MERG14dp
+2015-04-29 15:49:27 [modifyUsers] Disabled: jbellis@rbauction.com.merg14dp

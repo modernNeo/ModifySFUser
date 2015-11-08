@@ -1,0 +1,11 @@
+2015-04-30 13:59:58 [getArgs] Params: -enable
+2015-04-30 13:59:58 [getArgs] Params: -n: Jason Saadatmand
+2015-04-30 13:59:58 [getArgs] Params: -org: dev55dcoop
+2015-04-30 13:59:58 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Saadatmand%'
+2015-04-30 13:59:58 [mainMethod] extraction username pointing to dev55dcoop
+2015-04-30 13:59:58 [callExportEXE] connecting to dev55dcoop......
+2015-04-30 14:00:08 [callExportEXE] connected to dev55dcoop and user list extracted
+2015-04-30 14:00:08 [mainMethod] username for upload pointing to dev55dcoop
+2015-04-30 14:00:08 [callUpdateEXE] users being updated in dev55dcoop.....
+2015-04-30 14:00:22 [callUpdateEXE] update complete in dev55dcoop
+2015-04-30 14:00:222015-04-30 14:00:08 [modifyUsers] Enabled: sfdcadminjsaadatmand@rbauction.com.dev55dcoop

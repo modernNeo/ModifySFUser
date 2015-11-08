@@ -1,0 +1,130 @@
+2015-04-30 13:23:03 [getArgs] Params: -disable
+2015-04-30 13:23:03 [getArgs] Params: -n: Jason Saadatmand
+2015-04-30 13:23:03 [getArgs] No Orgs Specified, orgs extracted from C:\ModifySFUser\Sandboxes\SandboxesW.txt file
+2015-04-30 13:23:03 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Jason Saadatmand%'
+2015-04-30 13:23:03 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 13:23:03 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 13:23:16 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 13:23:162015-04-30 13:23:16 [modifyUsers] CSV empty as none of the users in DEV08dpD04 were a match for the specified name 
+2015-04-30 13:23:16 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 13:23:16 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 13:23:25 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 13:23:252015-04-30 13:23:25 [modifyUsers] CSV empty as none of the users in dev11dSZ were a match for the specified name 
+2015-04-30 13:23:25 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 13:23:25 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 13:23:34 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 13:23:342015-04-30 13:23:34 [modifyUsers] CSV empty as none of the users in DEV14dCRM were a match for the specified name 
+2015-04-30 13:23:34 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 13:23:34 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 13:23:43 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 13:23:432015-04-30 13:23:43 [modifyUsers] CSV empty as none of the users in DEV15dCRM were a match for the specified name 
+2015-04-30 13:23:43 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 13:23:43 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 13:23:51 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 13:23:512015-04-30 13:23:51 [modifyUsers] CSV empty as none of the users in DEV15dpHFX were a match for the specified name 
+2015-04-30 13:23:51 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 13:23:51 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 13:24:03 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 13:24:032015-04-30 13:24:03 [modifyUsers] CSV empty as none of the users in DEV19dpSFA were a match for the specified name 
+2015-04-30 13:24:03 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 13:24:03 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 13:24:14 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 13:24:142015-04-30 13:24:14 [modifyUsers] CSV empty as none of the users in DEV21dpKB were a match for the specified name 
+2015-04-30 13:24:14 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 13:24:14 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 13:24:23 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 13:24:232015-04-30 13:24:23 [modifyUsers] CSV empty as none of the users in DEV27dpTAB were a match for the specified name 
+2015-04-30 13:24:23 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 13:24:23 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 13:24:34 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 13:24:342015-04-30 13:24:34 [modifyUsers] CSV empty as none of the users in DEV38dpD04 were a match for the specified name 
+2015-04-30 13:24:34 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 13:24:34 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 13:24:44 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 13:24:44 [mainMethod] username for upload pointing to DEV55dcoop
+2015-04-30 13:24:44 [callUpdateEXE] users being updated in DEV55dcoop.....
+2015-04-30 13:24:57 [callUpdateEXE] update complete in DEV55dcoop
+2015-04-30 13:24:572015-04-30 13:24:44 [modifyUsers] Disabled: sfdcadminjsaadatmand@rbauction.com.dev55dcoop
+2015-04-30 13:24:57 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 13:24:57 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 13:25:12 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 13:25:122015-04-30 13:25:12 [modifyUsers] CSV empty as none of the users in dev70dSTPT were a match for the specified name 
+2015-04-30 13:25:12 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 13:25:12 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 13:25:20 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 13:25:202015-04-30 13:25:20 [modifyUsers] CSV empty as none of the users in DEV8cRJSAM were a match for the specified name 
+2015-04-30 13:25:21 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 13:25:21 [callExportEXE] connecting to MERG02dp......
+2015-04-30 13:25:28 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 13:25:282015-04-30 13:25:28 [modifyUsers] CSV empty as none of the users in MERG02dp were a match for the specified name 
+2015-04-30 13:25:28 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 13:25:28 [callExportEXE] connecting to TEST03F......
+2015-04-30 13:25:38 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 13:25:382015-04-30 13:25:38 [modifyUsers] CSV empty as none of the users in TEST03F were a match for the specified name 
+2015-04-30 13:25:38 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 13:25:38 [callExportEXE] connecting to TRN01dp......
+2015-04-30 13:25:50 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 13:25:50 [mainMethod] username for upload pointing to TRN01dp
+2015-04-30 13:25:50 [callUpdateEXE] users being updated in TRN01dp.....
+2015-04-30 13:26:01 [callUpdateEXE] update complete in TRN01dp
+2015-04-30 13:26:012015-04-30 13:25:50 [modifyUsers] Disabled: sfdcadminjsaadatmand@rbauction.com.trn01dp
+2015-04-30 13:26:01 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 13:26:01 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 13:26:22 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 13:26:222015-04-30 13:26:22 [modifyUsers] CSV empty as none of the users in DEV08dpD04 were a match for the specified name 
+2015-04-30 13:26:22 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 13:26:22 [callExportEXE] connecting to dev11dSZ......
+2015-04-30 13:26:32 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-30 13:26:322015-04-30 13:26:32 [modifyUsers] CSV empty as none of the users in dev11dSZ were a match for the specified name 
+2015-04-30 13:26:32 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-30 13:26:32 [callExportEXE] connecting to DEV14dCRM......
+2015-04-30 13:26:41 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-30 13:26:412015-04-30 13:26:41 [modifyUsers] CSV empty as none of the users in DEV14dCRM were a match for the specified name 
+2015-04-30 13:26:42 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-30 13:26:42 [callExportEXE] connecting to DEV15dCRM......
+2015-04-30 13:26:58 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-30 13:26:582015-04-30 13:26:58 [modifyUsers] CSV empty as none of the users in DEV15dCRM were a match for the specified name 
+2015-04-30 13:26:58 [mainMethod] extraction username pointing to DEV15dpHFX
+2015-04-30 13:26:58 [callExportEXE] connecting to DEV15dpHFX......
+2015-04-30 13:27:10 [callExportEXE] connected to DEV15dpHFX and user list extracted
+2015-04-30 13:27:102015-04-30 13:27:10 [modifyUsers] CSV empty as none of the users in DEV15dpHFX were a match for the specified name 
+2015-04-30 13:27:10 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-30 13:27:10 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-30 13:27:22 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-30 13:27:222015-04-30 13:27:22 [modifyUsers] CSV empty as none of the users in DEV19dpSFA were a match for the specified name 
+2015-04-30 13:27:22 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-30 13:27:22 [callExportEXE] connecting to DEV21dpKB......
+2015-04-30 13:27:34 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-30 13:27:342015-04-30 13:27:34 [modifyUsers] CSV empty as none of the users in DEV21dpKB were a match for the specified name 
+2015-04-30 13:27:34 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-30 13:27:34 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-30 13:27:46 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-30 13:27:462015-04-30 13:27:46 [modifyUsers] CSV empty as none of the users in DEV27dpTAB were a match for the specified name 
+2015-04-30 13:27:46 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-30 13:27:46 [callExportEXE] connecting to DEV38dpD04......
+2015-04-30 13:28:01 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-30 13:28:012015-04-30 13:28:01 [modifyUsers] CSV empty as none of the users in DEV38dpD04 were a match for the specified name 
+2015-04-30 13:28:01 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-30 13:28:01 [callExportEXE] connecting to DEV55dcoop......
+2015-04-30 13:28:18 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-30 13:28:182015-04-30 13:28:18 [modifyUsers] Already disabled: sfdcadminjsaadatmand@rbauction.com.dev55dcoop
+2015-04-30 13:28:18 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-30 13:28:18 [callExportEXE] connecting to dev70dSTPT......
+2015-04-30 13:28:33 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-30 13:28:332015-04-30 13:28:33 [modifyUsers] CSV empty as none of the users in dev70dSTPT were a match for the specified name 
+2015-04-30 13:28:33 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-30 13:28:33 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-30 13:28:49 [callExportEXE] connected to DEV8cRJSAM and user list extracted
+2015-04-30 13:28:492015-04-30 13:28:49 [modifyUsers] CSV empty as none of the users in DEV8cRJSAM were a match for the specified name 
+2015-04-30 13:28:50 [mainMethod] extraction username pointing to MERG02dp
+2015-04-30 13:28:50 [callExportEXE] connecting to MERG02dp......
+2015-04-30 13:29:07 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-30 13:29:072015-04-30 13:29:07 [modifyUsers] CSV empty as none of the users in MERG02dp were a match for the specified name 
+2015-04-30 13:29:07 [mainMethod] extraction username pointing to TEST03F
+2015-04-30 13:29:07 [callExportEXE] connecting to TEST03F......
+2015-04-30 13:29:22 [callExportEXE] connected to TEST03F and user list extracted
+2015-04-30 13:29:222015-04-30 13:29:22 [modifyUsers] CSV empty as none of the users in TEST03F were a match for the specified name 
+2015-04-30 13:29:22 [mainMethod] extraction username pointing to TRN01dp
+2015-04-30 13:29:22 [callExportEXE] connecting to TRN01dp......
+2015-04-30 13:29:35 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-30 13:29:352015-04-30 13:29:35 [modifyUsers] Already disabled: sfdcadminjsaadatmand@rbauction.com.trn01dp

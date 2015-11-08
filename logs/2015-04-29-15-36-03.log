@@ -1,0 +1,152 @@
+2015-04-29 15:36:04 [getArgs] orgs extracted from C:\ModifySFUser\Sandboxes\Sandboxes.txt file for -f parameter
+2015-04-29 15:36:04 [parseCommand] Parsed Command: 
+2015-04-29 15:36:04 [parseCommand] 	Name: Yadan Wang
+2015-04-29 15:36:04 [parseCommand] 	IsActive flag: True
+2015-04-29 15:36:04 [modifySFUser] 	Recipient emails: jsaadatmand@rbauction.com
+2015-04-29 15:36:04 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'Yadan Wang%'
+2015-04-29 15:36:04 [fParameterInvoked] Modifying accounts for Yadan Wang
+2015-04-29 15:36:04 [mainMethod] extraction username pointing to BAK01d
+2015-04-29 15:36:04 [callExportEXE] connecting to BAK01d......
+2015-04-29 15:36:08 [callExportEXE] Unable to connect to org BAK01d
+2015-04-29 15:36:08 [mainMethod] extraction username pointing to DEV06dp
+2015-04-29 15:36:08 [callExportEXE] connecting to DEV06dp......
+2015-04-29 15:36:12 [callExportEXE] Unable to connect to org DEV06dp
+2015-04-29 15:36:12 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-29 15:36:12 [callExportEXE] connecting to DEV08dpD04......
+2015-04-29 15:36:21 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-29 15:36:21 [mainMethod] username for upload pointing to DEV08dpD04
+2015-04-29 15:36:21 [callUpdateEXE] users being updated in DEV08dpD04.....
+2015-04-29 15:36:31 [callUpdateEXE] update complete in DEV08dpD04
+2015-04-29 15:36:21 [modifyUsers] Enabled: ywang@rbauction.com.dev08dpd04
+2015-04-29 15:36:31 [mainMethod] extraction username pointing to DEV09dpINT
+2015-04-29 15:36:31 [callExportEXE] connecting to DEV09dpINT......
+2015-04-29 15:36:34 [callExportEXE] Unable to connect to org DEV09dpINT
+2015-04-29 15:36:34 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-29 15:36:34 [callExportEXE] connecting to dev11dSZ......
+2015-04-29 15:36:43 [callExportEXE] connected to dev11dSZ and user list extracted
+2015-04-29 15:36:43 [modifyUsers] Already enabled: ywang@rbauction.com.dev11dsz
+2015-04-29 15:36:43 [mainMethod] extraction username pointing to DEV14dCRM
+2015-04-29 15:36:43 [callExportEXE] connecting to DEV14dCRM......
+2015-04-29 15:36:51 [callExportEXE] connected to DEV14dCRM and user list extracted
+2015-04-29 15:36:51 [modifyUsers] Already enabled: ywang@rbauction.com.dev14dcrm
+2015-04-29 15:36:51 [mainMethod] extraction username pointing to DEV15dCRM
+2015-04-29 15:36:51 [callExportEXE] connecting to DEV15dCRM......
+2015-04-29 15:37:00 [callExportEXE] connected to DEV15dCRM and user list extracted
+2015-04-29 15:37:00 [modifyUsers] Already enabled: ywang@rbauction.com.dev15dcrm
+2015-04-29 15:37:00 [mainMethod] extraction username pointing to DEV17dST
+2015-04-29 15:37:00 [callExportEXE] connecting to DEV17dST......
+2015-04-29 15:37:04 [callExportEXE] Unable to connect to org DEV17dST
+2015-04-29 15:37:04 [mainMethod] extraction username pointing to DEV18dST
+2015-04-29 15:37:04 [callExportEXE] connecting to DEV18dST......
+2015-04-29 15:37:09 [callExportEXE] Unable to connect to org DEV18dST
+2015-04-29 15:37:09 [mainMethod] extraction username pointing to DEV19dpSFA
+2015-04-29 15:37:09 [callExportEXE] connecting to DEV19dpSFA......
+2015-04-29 15:37:19 [callExportEXE] connected to DEV19dpSFA and user list extracted
+2015-04-29 15:37:19 [modifyUsers] Already enabled: ywang@rbauction.com.dev19dpsfa
+2015-04-29 15:37:19 [mainMethod] extraction username pointing to DEV20dpENH
+2015-04-29 15:37:19 [callExportEXE] connecting to DEV20dpENH......
+2015-04-29 15:37:22 [callExportEXE] Unable to connect to org DEV20dpENH
+2015-04-29 15:37:22 [mainMethod] extraction username pointing to DEV21dpKB
+2015-04-29 15:37:22 [callExportEXE] connecting to DEV21dpKB......
+2015-04-29 15:37:31 [callExportEXE] connected to DEV21dpKB and user list extracted
+2015-04-29 15:37:31 [modifyUsers] Already enabled: ywang@rbauction.com.dev21dpkb
+2015-04-29 15:37:31 [mainMethod] extraction username pointing to DEV25dAS
+2015-04-29 15:37:31 [callExportEXE] connecting to DEV25dAS......
+2015-04-29 15:37:35 [callExportEXE] Unable to connect to org DEV25dAS
+2015-04-29 15:37:35 [mainMethod] extraction username pointing to DEV27dpTAB
+2015-04-29 15:37:35 [callExportEXE] connecting to DEV27dpTAB......
+2015-04-29 15:37:43 [callExportEXE] connected to DEV27dpTAB and user list extracted
+2015-04-29 15:37:43 [modifyUsers] Already enabled: ywang@rbauction.com.dev27dptab
+2015-04-29 15:37:43 [mainMethod] extraction username pointing to DEV37dpD04
+2015-04-29 15:37:43 [callExportEXE] connecting to DEV37dpD04......
+2015-04-29 15:37:52 [callExportEXE] connected to DEV37dpD04 and user list extracted
+2015-04-29 15:37:52 [mainMethod] username for upload pointing to DEV37dpD04
+2015-04-29 15:37:52 [callUpdateEXE] users being updated in DEV37dpD04.....
+2015-04-29 15:38:06 [callUpdateEXE] update complete in DEV37dpD04
+2015-04-29 15:37:52 [modifyUsers] Enabled: ywang@rbauction.com.dev37dpd04
+2015-04-29 15:38:06 [mainMethod] extraction username pointing to DEV38dpD04
+2015-04-29 15:38:06 [callExportEXE] connecting to DEV38dpD04......
+2015-04-29 15:38:15 [callExportEXE] connected to DEV38dpD04 and user list extracted
+2015-04-29 15:38:15 [modifyUsers] Already enabled: ywang@rbauction.com.dev38dpd04
+2015-04-29 15:38:15 [mainMethod] extraction username pointing to DEV4dAR
+2015-04-29 15:38:15 [callExportEXE] connecting to DEV4dAR......
+2015-04-29 15:38:18 [callExportEXE] Unable to connect to org DEV4dAR
+2015-04-29 15:38:18 [mainMethod] extraction username pointing to DEV55dcoop
+2015-04-29 15:38:18 [callExportEXE] connecting to DEV55dcoop......
+2015-04-29 15:38:27 [callExportEXE] connected to DEV55dcoop and user list extracted
+2015-04-29 15:38:27 [modifyUsers] Already enabled: ywang@rbauction.com.dev55dcoop
+2015-04-29 15:38:27 [mainMethod] extraction username pointing to dev70dSTPT
+2015-04-29 15:38:27 [callExportEXE] connecting to dev70dSTPT......
+2015-04-29 15:38:37 [callExportEXE] connected to dev70dSTPT and user list extracted
+2015-04-29 15:38:37 [modifyUsers] Already enabled: ywang@rbauction.com.dev70dstpt
+2015-04-29 15:38:37 [mainMethod] extraction username pointing to DEV71dDF
+2015-04-29 15:38:37 [callExportEXE] connecting to DEV71dDF......
+2015-04-29 15:38:40 [callExportEXE] Unable to connect to org DEV71dDF
+2015-04-29 15:38:40 [mainMethod] extraction username pointing to dev72ddf
+2015-04-29 15:38:40 [callExportEXE] connecting to dev72ddf......
+2015-04-29 15:38:43 [callExportEXE] Unable to connect to org dev72ddf
+2015-04-29 15:38:43 [mainMethod] extraction username pointing to DEV7cSAM
+2015-04-29 15:38:43 [callExportEXE] connecting to DEV7cSAM......
+2015-04-29 15:38:48 [callExportEXE] Unable to connect to org DEV7cSAM
+2015-04-29 15:38:48 [mainMethod] extraction username pointing to DEV8cRJSAM
+2015-04-29 15:38:48 [callExportEXE] connecting to DEV8cRJSAM......
+2015-04-29 15:38:52 [callExportEXE] Unable to connect to org DEV8cRJSAM
+2015-04-29 15:38:52 [mainMethod] extraction username pointing to MERG02dp
+2015-04-29 15:38:52 [callExportEXE] connecting to MERG02dp......
+2015-04-29 15:39:02 [callExportEXE] connected to MERG02dp and user list extracted
+2015-04-29 15:39:02 [modifyUsers] Already enabled: ywang@rbauction.com.merg02dp
+2015-04-29 15:39:02 [mainMethod] extraction username pointing to MERG08dp
+2015-04-29 15:39:02 [callExportEXE] connecting to MERG08dp......
+2015-04-29 15:39:10 [callExportEXE] connected to MERG08dp and user list extracted
+2015-04-29 15:39:10 [mainMethod] username for upload pointing to MERG08dp
+2015-04-29 15:39:10 [callUpdateEXE] users being updated in MERG08dp.....
+2015-04-29 15:39:20 [callUpdateEXE] update complete in MERG08dp
+2015-04-29 15:39:10 [modifyUsers] Enabled: ywang@rbauction.com.merg08dp
+2015-04-29 15:39:20 [mainMethod] extraction username pointing to MERG09dp
+2015-04-29 15:39:20 [callExportEXE] connecting to MERG09dp......
+2015-04-29 15:39:28 [callExportEXE] connected to MERG09dp and user list extracted
+2015-04-29 15:39:28 [mainMethod] username for upload pointing to MERG09dp
+2015-04-29 15:39:28 [callUpdateEXE] users being updated in MERG09dp.....
+2015-04-29 15:39:38 [callUpdateEXE] update complete in MERG09dp
+2015-04-29 15:39:28 [modifyUsers] Enabled: ywang@rbauction.com.merg09dp
+2015-04-29 15:39:38 [mainMethod] extraction username pointing to TEST03f
+2015-04-29 15:39:38 [callExportEXE] connecting to TEST03f......
+2015-04-29 15:39:46 [callExportEXE] connected to TEST03f and user list extracted
+2015-04-29 15:39:46 [mainMethod] username for upload pointing to TEST03f
+2015-04-29 15:39:46 [callUpdateEXE] users being updated in TEST03f.....
+2015-04-29 15:39:55 [callUpdateEXE] update complete in TEST03f
+2015-04-29 15:39:46 [modifyUsers] Enabled: ywang@rbauction.com.test03f
+2015-04-29 15:39:55 [mainMethod] extraction username pointing to TEST04F
+2015-04-29 15:39:55 [callExportEXE] connecting to TEST04F......
+2015-04-29 15:39:58 [callExportEXE] Unable to connect to org TEST04F
+2015-04-29 15:39:58 [mainMethod] extraction username pointing to TEST05F
+2015-04-29 15:39:58 [callExportEXE] connecting to TEST05F......
+2015-04-29 15:40:08 [callExportEXE] connected to TEST05F and user list extracted
+2015-04-29 15:40:08 [modifyUsers] Already enabled: ywang@rbauction.com.test05f
+2015-04-29 15:40:08 [mainMethod] extraction username pointing to TRN01dp
+2015-04-29 15:40:08 [callExportEXE] connecting to TRN01dp......
+2015-04-29 15:40:17 [callExportEXE] connected to TRN01dp and user list extracted
+2015-04-29 15:40:17 [mainMethod] username for upload pointing to TRN01dp
+2015-04-29 15:40:17 [callUpdateEXE] users being updated in TRN01dp.....
+2015-04-29 15:40:27 [callUpdateEXE] update complete in TRN01dp
+2015-04-29 15:40:17 [modifyUsers] Enabled: ywang@rbauction.com.train
+2015-04-29 15:40:27 [mainMethod] extraction username pointing to UAT04F
+2015-04-29 15:40:27 [callExportEXE] connecting to UAT04F......
+2015-04-29 15:40:31 [callExportEXE] Unable to connect to org UAT04F
+2015-04-29 15:40:31 [mainMethod] extraction username pointing to merg13dp
+2015-04-29 15:40:31 [callExportEXE] connecting to merg13dp......
+2015-04-29 15:40:39 [callExportEXE] connected to merg13dp and user list extracted
+2015-04-29 15:40:39 [mainMethod] username for upload pointing to merg13dp
+2015-04-29 15:40:39 [callUpdateEXE] users being updated in merg13dp.....
+2015-04-29 15:40:48 [callUpdateEXE] update complete in merg13dp
+2015-04-29 15:40:39 [modifyUsers] Enabled: ywang@rbauction.com.merg13dp
+2015-04-29 15:40:48 [mainMethod] extraction username pointing to 
+2015-04-29 15:40:48 [callExportEXE] connecting to ......
+2015-04-29 15:40:53 [callExportEXE] Unable to connect to org 
+2015-04-29 15:40:53 [mainMethod] extraction username pointing to MERG14dp
+2015-04-29 15:40:53 [callExportEXE] connecting to MERG14dp......
+2015-04-29 15:41:01 [callExportEXE] connected to MERG14dp and user list extracted
+2015-04-29 15:41:01 [mainMethod] username for upload pointing to MERG14dp
+2015-04-29 15:41:01 [callUpdateEXE] users being updated in MERG14dp.....
+2015-04-29 15:41:11 [callUpdateEXE] update complete in MERG14dp
+2015-04-29 15:41:01 [modifyUsers] Enabled: ywang@rbauction.com.merg14dp

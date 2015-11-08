@@ -1,0 +1,18 @@
+2015-04-30 14:08:39 [getArgs] orgs extracted from C:\ModifySFUser\Sandboxes\SandboxesW.txt file for -f parameter
+2015-04-30 14:08:39 [parseCommand] Parsed Command: 
+2015-04-30 14:08:39 [parseCommand] 	Name: That Man
+2015-04-30 14:08:39 [parseCommand] 	IsActive flag: False
+2015-04-30 14:08:39 [parseCommand] Parsed Command: 
+2015-04-30 14:08:39 [parseCommand] 	Name: Dave
+2015-04-30 14:08:39 [parseCommand] 	IsActive flag: False
+2015-04-30 14:08:39 [parseCommand] Parsed Command: 
+2015-04-30 14:08:39 [parseCommand] 	Name: Jason Saadatmand
+2015-04-30 14:08:39 [parseCommand] 	IsActive flag: True
+2015-04-30 14:08:39 [setExtractionSOQL] extractionSOQL set to SELECT Id, Name, isActive, username FROM User WHERE Name like 'That Man%'
+2015-04-30 14:08:39 [fParameterInvoked] Modifying accounts for That Man
+2015-04-30 14:08:39 [mainMethod] extraction username pointing to DEV08dpD04
+2015-04-30 14:08:39 [callExportEXE] connecting to DEV08dpD04......
+2015-04-30 14:08:48 [callExportEXE] connected to DEV08dpD04 and user list extracted
+2015-04-30 14:08:482015-04-30 14:08:48 [modifyUsers] modifying specified users failed for DEV08dpD04 as C:\ModifySFUser\Data Loader\cliq_process\export\write\export.csv was empty
+2015-04-30 14:08:48 [mainMethod] extraction username pointing to dev11dSZ
+2015-04-30 14:08:48 [callExportEXE] connecting to dev11dSZ......
